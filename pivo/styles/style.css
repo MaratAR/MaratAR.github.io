@@ -1,0 +1,32 @@
+html {
+    font-size: 12px;
+    font-family: 'Anton', sans-serif;
+    background-color: #2AB541;
+}
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: rgb(165, 182, 72);
+    text-shadow: 3px 3px 1px black;
+    font-size: 50px;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+p,li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+body {
+    width: 700px;
+    margin: 0 auto;
+    background-color: #4140a1;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
